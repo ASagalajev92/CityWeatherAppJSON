@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">City Weather App</string>
+    <string name="edit_weather_hint">Enter Your city or zip code</string>
+    <string name="show_weather">Show weather</string>
+    <string name="btn_music">Music</string>
+</resources>
